@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Limkhi_2FA_WPF</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="View\OIG1.jpg" />
+    <None Remove="View\OIG1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewModel\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Otp.NET" Version="1.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="View\OIG1.jpg" />
+    <Resource Include="View\OIG1.png" />
+  </ItemGroup>
+
+</Project>

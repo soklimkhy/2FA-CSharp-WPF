@@ -1,0 +1,23 @@
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\bin\Debug\net8.0-windows\Limkhi 2FA WPF.exe
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\bin\Debug\net8.0-windows\Limkhi 2FA WPF.deps.json
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\bin\Debug\net8.0-windows\Limkhi 2FA WPF.runtimeconfig.json
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\bin\Debug\net8.0-windows\Limkhi 2FA WPF.dll
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\bin\Debug\net8.0-windows\Limkhi 2FA WPF.pdb
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF_MarkupCompile.cache
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF_MarkupCompile.lref
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.g.resources
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.AssemblyInfoInputs.cache
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.AssemblyInfo.cs
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.csproj.CoreCompileInputs.cache
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.dll
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\refint\Limkhi 2FA WPF.dll
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.pdb
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.genruntimeconfig.cache
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\ref\Limkhi 2FA WPF.dll
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2FA WPF.csproj.AssemblyReference.cache
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\bin\Debug\net8.0-windows\Otp.NET.dll
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF\Limkhi 2FA WPF\obj\Debug\net8.0-windows\Limkhi 2.1BE1224E.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kKiUrK8ELQk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sokli\\OneDrive\\Desktop\\Limkhi 2FA WPF\\Limkhi 2FA WPF\\Limkhi 2FA WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sokli\\.nuget\\packages\\otp.net\\1.4.0\\otp.net.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

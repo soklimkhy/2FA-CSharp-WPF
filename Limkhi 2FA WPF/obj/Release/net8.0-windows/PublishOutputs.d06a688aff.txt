@@ -1,0 +1,6 @@
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF.exe
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF.dll
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF.deps.json
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF.runtimeconfig.json
+C:\Users\sokli\OneDrive\Desktop\Limkhi 2FA WPF.pdb
+C:\Users\sokli\OneDrive\Desktop\Otp.NET.dll
